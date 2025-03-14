@@ -1,0 +1,11 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NotificaUsuarioTabelaReprovadaModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Olá @Model.FornecedorNome,</p>
+        <p style="margin-top: 0px; color: white;">O usuário @Model.UsuarioNome da empresa @Model.EmpresaNome reprovou sua nova tabela de preços.</p>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.Swagger.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Swagger.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Swagger\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.Swagger.dll

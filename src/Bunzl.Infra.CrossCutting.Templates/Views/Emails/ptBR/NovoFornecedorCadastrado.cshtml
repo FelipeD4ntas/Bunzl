@@ -1,0 +1,11 @@
+@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NovoFornecedorCadastradoModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Olá @Model.Nome.</p>
+        <p style="margin-top: 0px; color: white;">O Fornecedor @Model.NomeFornecedor, concluiu o cadastro das informações na aba de Dados Cadastrais.</p>
+    </div>
+</div>

@@ -1,0 +1,11 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NotificaUsuarioTabelaImportadaModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Olá @Model.UsuarioNome,</p>
+        <p style="margin-top: 0px; color: white;">Informamos que o fornecedor @Model.FornecedorNome realizou a importação da tabela de preços no Portal de Fornecedores Bunzl.</p>
+    </div>
+</div>

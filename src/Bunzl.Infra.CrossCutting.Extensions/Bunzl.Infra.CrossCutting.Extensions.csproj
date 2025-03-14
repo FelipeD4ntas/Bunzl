@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+	<PackageReference Include="prmToolkit.EnumExtension" Version="2.0.3" />
+  </ItemGroup>
+	
+  <ItemGroup>
+    <ProjectReference Include="..\Bunzl.Core.Domain\Bunzl.Core.Domain.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Atributes\Bunzl.Infra.CrossCutting.Atributes.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Security\Bunzl.Infra.CrossCutting.Security.csproj" />
+  </ItemGroup>
+
+</Project>

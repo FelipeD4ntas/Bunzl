@@ -1,0 +1,18 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NovaObservacaoNegociacaoTimeBunzlModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+	<div style="text-align: center;">
+		<p style="margin-bottom: 0px; color: white;">Hello @Model.UsuarioNome,</p>
+		<p style="margin-bottom: 0px; margin-top: 0px; color: white;">Supplier @Model.NomeFornecedor has added a new message to the negotiation.</p>
+		<p style="margin-top: 0px; color: white;">Negotiation Code: @Model.CodigoNegociacao</p>
+		<p style="margin-top: 0px; color: white;">Use the link below to view the details.</p>
+	</div>
+	<div style="text-align: center; margin-top: 20px;">
+		<a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+			Access the Portal
+		</a>
+	</div>
+</div>

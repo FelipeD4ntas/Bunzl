@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "318SypFIF4o=",
+  "success": true,
+  "projectFilePath": "D:\\Trabalho\\Bunlz\\back\\back-end\\src\\Bunzl.Infra.CrossCutting.Notification\\Bunzl.Infra.CrossCutting.NotificationPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}

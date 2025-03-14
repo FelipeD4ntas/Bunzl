@@ -1,0 +1,15 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.ProdutoImportadoModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Olá @Model.Nome</p>
+        <p style="margin-top: 0px; color: white;">
+            O Fornecedor @Model.NomeFornecedor fez a importação de  @Model.QuantiodadeProdutos
+            @(Model.QuantiodadeProdutos == 1 ? "produto" : "produtos")
+            no portal.
+        </p>
+    </div>
+</div>

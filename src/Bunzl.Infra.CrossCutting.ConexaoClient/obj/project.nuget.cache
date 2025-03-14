@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YTONXB8IwmQ=",
+  "success": true,
+  "projectFilePath": "D:\\Trabalho\\Bunlz\\back\\back-end\\src\\Bunzl.Infra.CrossCutting.ConexaoClient\\Bunzl.Infra.CrossCutting.ConexaoClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felip\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\felip\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

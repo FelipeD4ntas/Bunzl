@@ -1,0 +1,12 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.NotificationPattern.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Notification\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.NotificationPattern.dll

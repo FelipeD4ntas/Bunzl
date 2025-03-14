@@ -1,0 +1,12 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.IoC.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.IoC\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.IoC.dll

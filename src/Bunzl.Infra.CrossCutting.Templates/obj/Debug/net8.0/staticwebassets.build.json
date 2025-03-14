@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "x83xPFAYRl47fsuKzt92cOxGddkvTTTKBF9Pzcg1Dk4=",
+  "Source": "Bunzl.Infra.CrossCutting.Templates",
+  "BasePath": "_content/Bunzl.Infra.CrossCutting.Templates",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

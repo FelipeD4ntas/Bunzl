@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AddRazorSupportForMvc>true</AddRazorSupportForMvc>
+		<OutputType>Library</OutputType>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<SupportedPlatform Include="browser" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Components.Web" Version="5.0.9" />
+		<PackageReference Include="Microsoft.AspNetCore.Mvc.Razor" Version="2.2.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\Bunzl.Infra.CrossCutting.IoC\Bunzl.Infra.CrossCutting.IoC.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<EmbeddedResource Include="Views/Produtos/1-PRODUCT_REGISTRATION - SUPPLIER.xlsx" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Views/Produtos/2-PRODUCT_ASSOCIATION - BUNZL x SUPPLIER.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Views/Produtos/3-PRICE_LIST - SUPPLIER.xlsx" />
+  </ItemGroup>
+</Project>

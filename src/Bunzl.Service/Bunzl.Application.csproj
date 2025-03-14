@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bunzl.Core.Domain\Bunzl.Core.Domain.csproj" />
+    <ProjectReference Include="..\Bunzl.Domain\Bunzl.Domain.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.IoC\Bunzl.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Notification\Bunzl.Infra.CrossCutting.NotificationPattern.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.Data\Bunzl.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

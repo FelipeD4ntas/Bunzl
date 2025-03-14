@@ -1,0 +1,15 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.IoC.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.In.DF10DCEC.Up2Date
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.ConexaoClient.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.ConexaoClient.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.ConexaoClient\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.ConexaoClient.dll

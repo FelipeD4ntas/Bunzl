@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Remove="DTOs\Response\**" />
+      <EmbeddedResource Remove="DTOs\Response\**" />
+      <None Remove="DTOs\Response\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="DevExtreme.AspNet.Data" Version="4.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.MediatoR\Bunzl.Infra.CrossCutting.MediatoR.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Notification\Bunzl.Infra.CrossCutting.NotificationPattern.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Security\Bunzl.Infra.CrossCutting.Security.csproj" />
+    </ItemGroup>
+
+</Project>

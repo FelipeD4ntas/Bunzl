@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+  	<TargetFramework>net8.0</TargetFramework>
+  	<ImplicitUsings>enable</ImplicitUsings>
+  	<Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Communication.Sms" Version="1.0.1" />
+    <PackageReference Include="Azure.Identity" Version="1.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bunzl.Core.Domain\Bunzl.Core.Domain.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.ConexaoClient\Bunzl.Infra.CrossCutting.ConexaoClient.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Extensions\Bunzl.Infra.CrossCutting.Extensions.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.IoC\Bunzl.Infra.CrossCutting.IoC.csproj" />
+  </ItemGroup>
+  
+</Project>

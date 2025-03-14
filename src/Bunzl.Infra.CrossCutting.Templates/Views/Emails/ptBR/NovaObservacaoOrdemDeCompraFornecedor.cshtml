@@ -1,0 +1,18 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NovaObservacaoOrdemDeCompraFornecedorModel
+@{
+	Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+	<div style="text-align: center;">
+		<p style="margin-bottom: 0px; color: white;">Olá @Model.NomeFornecedor,</p>
+		<p style="margin-top: 0px; color: white;">O usuário @Model.UsuarioNome da empresa @Model.NomeEmpresa adicionou uma nova mensagem na Ordem de compra.</p>
+		<p style="margin-top: 0px; color: white;">Número da Ordem de compra: @Model.NumeroOrdemDeCompra</p>
+		<p style="margin-top: 0px; color: white;">Clique no link abaixo para acessar o portal e ver os detalhes.</p>
+	</div>
+	<div style="text-align: center; margin-top: 20px;">
+		<a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+			Acessar o Portal
+		</a>
+	</div>
+</div>

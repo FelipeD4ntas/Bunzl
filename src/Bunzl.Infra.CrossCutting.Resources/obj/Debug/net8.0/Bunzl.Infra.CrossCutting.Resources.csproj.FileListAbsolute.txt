@@ -1,0 +1,11 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.Resources.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Resources.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Resources\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.Resources.dll

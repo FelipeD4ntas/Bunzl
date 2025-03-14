@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MailKit" Version="4.7.1.1" />
+    <PackageReference Include="Microsoft.Identity.Client" Version="4.62.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Bunzl.Core.Domain\Bunzl.Core.Domain.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.IoC\Bunzl.Infra.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Templates\Bunzl.Infra.CrossCutting.Templates.csproj" />
+  </ItemGroup>
+
+</Project>

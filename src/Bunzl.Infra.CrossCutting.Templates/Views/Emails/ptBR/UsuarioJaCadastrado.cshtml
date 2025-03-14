@@ -1,0 +1,16 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.UsuarioJaCadastradoModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Olá @Model.Nome, você foi cadastrado na empresa @Model.EmpresaNome</p>
+        <p style="margin-top: 0px; color: white;">Acesse o link abaixo para acessar o portal.</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+            Fazer Login
+        </a>
+    </div>
+</div>

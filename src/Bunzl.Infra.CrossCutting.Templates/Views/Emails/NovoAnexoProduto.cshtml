@@ -1,0 +1,11 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NovoAnexoProdutoModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center;">
+        <p style="margin-bottom: 0px; color: white;">Hello @Model.Nome,</p>
+        <p style="margin-top: 0px; color: white;">Supplier @Model.NomeFornecedor has added a new attachment to the product: @Model.ProdutoCodigo</p>
+    </div>
+</div>

@@ -1,0 +1,1815 @@
+[
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.AuditoriaController",
+    "Method": "Listar",
+    "RelativePath": "api/auditoria/auditorias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Auditoria.Listar.AuditoriaListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EmpresaController",
+    "Method": "ObterTodos",
+    "RelativePath": "api/empresa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EmpresaController",
+    "Method": "ObterPorUsuarioLogado",
+    "RelativePath": "api/empresa/logado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EmpresaController",
+    "Method": "ObterUltimaAtualizacao",
+    "RelativePath": "api/empresa/ultima-atualizacao/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EmpresaController",
+    "Method": "ObterPorUsuario",
+    "RelativePath": "api/empresa/usuario/{usuarioId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usuarioId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarTipoDocumento",
+    "RelativePath": "api/enum/anexo/tipo-documento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusFornecedor",
+    "RelativePath": "api/enum/fornecedor/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusNegociacaoComercial",
+    "RelativePath": "api/enum/negociacao-comercial/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusTabelaOrdemDeCompra",
+    "RelativePath": "api/enum/ordem-compra/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusProduto",
+    "RelativePath": "api/enum/produto/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusTabelaPrecoProduto",
+    "RelativePath": "api/enum/tabela-preco-produto/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarStatusTabelaPreco",
+    "RelativePath": "api/enum/tabela-preco/status/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarPerfilUsuarioLogado",
+    "RelativePath": "api/enum/usuario/perfil",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.EnumController",
+    "Method": "ListarPerfilUsuario",
+    "RelativePath": "api/enum/usuario/perfil/todos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Adicionar",
+    "RelativePath": "api/fornecedor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.Adicionar.FornecedorAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Atualizar",
+    "RelativePath": "api/fornecedor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.Atualizar.FornecedorAtualizarRequestPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterFornecedor",
+    "RelativePath": "api/fornecedor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Ativar",
+    "RelativePath": "api/fornecedor/{id}/ativo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarDocumento",
+    "RelativePath": "api/fornecedor/{id}/documento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterDocumento",
+    "RelativePath": "api/fornecedor/{id}/documento/{documentoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "documentoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "DeletarDocumento",
+    "RelativePath": "api/fornecedor/{id}/documento/{documentoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "documentoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarDocumentos",
+    "RelativePath": "api/fornecedor/{id}/documentos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.ListarDocumentos.FornecedorListarDocumentosRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Inativar",
+    "RelativePath": "api/fornecedor/{id}/inativo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "InvalidarPortal",
+    "RelativePath": "api/fornecedor/{id}/invalidar-portal",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarObservacao",
+    "RelativePath": "api/fornecedor/{id}/observacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "DeletarObservacao",
+    "RelativePath": "api/fornecedor/{id}/observacao/{observacaoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "observacaoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarObservacoes",
+    "RelativePath": "api/fornecedor/{id}/observacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.ListarObservacoes.FornecedorListarObservacoesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Adicionar",
+    "RelativePath": "api/fornecedor/{id}/produto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.AdicionarProduto.FornecedorProdutoAdicionarPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Atualizar",
+    "RelativePath": "api/fornecedor/{id}/produto/{produtoId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.AtualizarProduto.FornecedorProdutoAtualizarPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterProduto",
+    "RelativePath": "api/fornecedor/{id}/produto/{produtoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Deletar",
+    "RelativePath": "api/fornecedor/{id}/produto/{produtoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarPlanilha",
+    "RelativePath": "api/fornecedor/{id}/produto/planilha/cadastro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterPlanilhaBunzl",
+    "RelativePath": "api/fornecedor/{id}/produto/planilha/cadastro/bunzl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "semSku",
+        "Type": "System.Boolean",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarPlanilhaBunzl",
+    "RelativePath": "api/fornecedor/{id}/produto/planilha/cadastro/bunzl",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterPlanilhaTabelaPreco",
+    "RelativePath": "api/fornecedor/{id}/produto/planilha/tabela-preco",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarPlanilhaTabelaPreco",
+    "RelativePath": "api/fornecedor/{id}/produto/planilha/tabela-preco",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarProdutos",
+    "RelativePath": "api/fornecedor/{id}/produtos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.ListarProdutos.FornecedorProdutoListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarProdutosHomologados",
+    "RelativePath": "api/fornecedor/{id}/produtos-homologados",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "AdicionarProdutoAnexo",
+    "RelativePath": "api/fornecedor/{id}/produtos/{produtoId}/anexo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "FornecedorId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "FornecedorProdutoId",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "TipoDocumento",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "DeletarProdutoAnexo",
+    "RelativePath": "api/fornecedor/{id}/produtos/{produtoId}/anexo/{anexoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterProdutoAnexo",
+    "RelativePath": "api/fornecedor/{id}/produtos/{produtoId}/anexo/{anexoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarProdutoAnexos",
+    "RelativePath": "api/fornecedor/{id}/produtos/{produtoId}/anexos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "produtoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "Listar",
+    "RelativePath": "api/fornecedor/fornecedores",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.Listar.FornecedorListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ListarFornecedorHomologadoComTabelaPreco",
+    "RelativePath": "api/fornecedor/fornecedores-homologado-com-tabela-preco",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Fornecedor.ListarHomologadoComTabelaPreco.FornecedorListarHomologadoComTabelaPrecoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.FornecedorController",
+    "Method": "ObterPlanilha",
+    "RelativePath": "api/fornecedor/produto/planilha/cadastro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.IncotermController",
+    "Method": "Listar",
+    "RelativePath": "api/Incoterm/listar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Incoterm.Listar.IncotermListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.Base.IntegracaoController",
+    "Method": "ObterFornecedores",
+    "RelativePath": "api/integracao/fornecedores/{empresaCnpj}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresaCnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "codigoFornecedor",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataAlteracaoInicio",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataAlteracaoFim",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.Base.IntegracaoController",
+    "Method": "ObterProdutos",
+    "RelativePath": "api/integracao/fornecedores/produtos/{empresaCnpj}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empresaCnpj",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "codigoSKU",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataAlteracaoInicio",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "dataAlteracaoFim",
+        "Type": "System.Nullable\u00601[[System.DateTime, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginAlterarEmpresa",
+    "RelativePath": "api/login/alterar-empresa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Login.LoginAlterarEmpresa.LoginAlterarEmpresaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginGerarCodigoEmail",
+    "RelativePath": "api/login/codigo-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Login.LoginGerarCodigoOtp.LoginGerarCodigoOtpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginGerarCodigoSms",
+    "RelativePath": "api/login/codigo-sms",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Login.LoginGerarCodigoOtp.LoginGerarCodigoOtpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginDev",
+    "RelativePath": "api/login/dev",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginFinal",
+    "RelativePath": "api/login/final",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Login.LoginFinal.LoginFinalRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.LoginController",
+    "Method": "LoginInicial",
+    "RelativePath": "api/login/inicial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Login.LoginInicial.LoginInicialRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.MoedaController",
+    "Method": "Adicionar",
+    "RelativePath": "api/Moeda/adicionar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Moeda.Adicionar.MoedaAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.MoedaController",
+    "Method": "Listar",
+    "RelativePath": "api/Moeda/listar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Moeda.Listar.MoedaListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "Adicionar",
+    "RelativePath": "api/negociacao-comercial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.Adicionar.NegociacaoComercialAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "Atualizar",
+    "RelativePath": "api/negociacao-comercial/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.Atualizar.NegociacaoComercialAtualizarPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "ObterNegociacaoComercial",
+    "RelativePath": "api/negociacao-comercial/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "AdicionarDocumento",
+    "RelativePath": "api/negociacao-comercial/{id}/anexo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "ObterAnexoNegociacaoComercial",
+    "RelativePath": "api/negociacao-comercial/{id}/anexo/{anexoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "DeletarAnexo",
+    "RelativePath": "api/negociacao-comercial/{id}/anexo/{anexoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "ListarAnexos",
+    "RelativePath": "api/negociacao-comercial/{id}/anexos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.ListarAnexos.NegociacaoComercialListarAnexosRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "AdicionarObservacao",
+    "RelativePath": "api/negociacao-comercial/{id}/observacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "DeletarObservacao",
+    "RelativePath": "api/negociacao-comercial/{id}/observacao/{observacaoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "observacaoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "ListarObservacoes",
+    "RelativePath": "api/negociacao-comercial/{id}/observacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.ListarObservacoes.NegociacaoComercialListarObservacoesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "AtualizarStatus",
+    "RelativePath": "api/negociacao-comercial/{id}/Status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "payload",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.AtualizarStatus.NegociacaoComercialAtualizarStatusPayload",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.NegociacaoComercialController",
+    "Method": "Listar",
+    "RelativePath": "api/negociacao-comercial/negociacoes-comercial",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.NegociacaoComercial.Listar.NegociacaoComercialListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "Adicionar",
+    "RelativePath": "api/ordem-de-compra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.OrdemDeCompra.Adicionar.OrdemDeCompraAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "ObterOrdemDeCompra",
+    "RelativePath": "api/ordem-de-compra/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "AdicionarDocumento",
+    "RelativePath": "api/ordem-de-compra/{id}/anexo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Arquivo",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "DeletarAnexo",
+    "RelativePath": "api/ordem-de-compra/{id}/anexo/{anexoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "ListarAnexos",
+    "RelativePath": "api/ordem-de-compra/{id}/anexos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.OrdemDeCompra.ListarAnexos.OrdemDeCompraListarAnexosRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "AdicionarObservacao",
+    "RelativePath": "api/ordem-de-compra/{id}/observacao",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "Observacao",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "DeletarObservacao",
+    "RelativePath": "api/ordem-de-compra/{id}/observacao/{observacaoId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "observacaoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "ListarObservacoes",
+    "RelativePath": "api/ordem-de-compra/{id}/observacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.OrdemDeCompra.ListarObservacoes.OrdemDeCompraListarObservacoesRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "Relatorio",
+    "RelativePath": "api/ordem-de-compra/{id}/relatorio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "AtualizarStatusOrdemDeCompra",
+    "RelativePath": "api/ordem-de-compra/atualizar-status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.OrdemDeCompra.AtualizarStatus.OrdemDeCompraAtualizarStatusRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "ObterAnexoOrdemDeCompra",
+    "RelativePath": "api/ordem-de-compra/obter-anexo/{anexoId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "anexoId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.OrdemDeCompraController",
+    "Method": "Listar",
+    "RelativePath": "api/ordem-de-compra/ordens-de-compra",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.OrdemDeCompra.Listar.OrdemDeCompraListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.SignUpController",
+    "Method": "SignUp",
+    "RelativePath": "api/signup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.SignUp.SignUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "ListarProdutos",
+    "RelativePath": "api/TabelaPreco/{id}/listar-produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Adicionar",
+    "RelativePath": "api/TabelaPreco/adicionar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Adicionar.TabelaPrecoAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Aprovar",
+    "RelativePath": "api/TabelaPreco/aprovar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Aprovar.TabelaPrecoAprovarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Atualizar",
+    "RelativePath": "api/TabelaPreco/atualizar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Atualizar.TabelaPrecoAtualizarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Cancelar",
+    "RelativePath": "api/TabelaPreco/cancelar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Cancelar.TabelaPrecoCancelarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "ObterAguardandoAprovacao",
+    "RelativePath": "api/TabelaPreco/fornecedor/{fornecedorId}/aguardando-aprovacao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fornecedorId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Listar",
+    "RelativePath": "api/TabelaPreco/listar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Listar.TabelaPrecoListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.TabelaPrecoController",
+    "Method": "Validar",
+    "RelativePath": "api/TabelaPreco/validar",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.TabelaPreco.Validar.TabelaPrecoValidarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Adicionar",
+    "RelativePath": "api/usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.Adicionar.UsuarioAdicionarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Atualizar",
+    "RelativePath": "api/usuario/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.Atualizar.UsuarioAtualizarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Deletar",
+    "RelativePath": "api/usuario/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Obter",
+    "RelativePath": "api/usuario/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Ativar",
+    "RelativePath": "api/usuario/{id}/ativo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Inativar",
+    "RelativePath": "api/usuario/{id}/inativo",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "ConfirmarCadastro",
+    "RelativePath": "api/usuario/confirmar-cadastro",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.ConfirmarCadastro.UsuarioConfirmarCadastroRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "ObterUsuarioLogado",
+    "RelativePath": "api/usuario/perfil",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "AtualizarUsuarioLogado",
+    "RelativePath": "api/usuario/perfil",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.AtualizarSenhaTelefone.UsuarioAtualizarSenhaTelefoneRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "ResetSenha",
+    "RelativePath": "api/usuario/reset-senha",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.ResetSenha.UsuarioResetSenhaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "SolicitarResetSenha",
+    "RelativePath": "api/usuario/solicitar-reset-senha",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.SolicitarResetSenha.UsuarioSolicitarResetSenhaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "Listar",
+    "RelativePath": "api/usuario/usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.Listar.UsuarioListarRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Bunzl.WebApi.Controllers.UsuarioController",
+    "Method": "VerificarResetSenha",
+    "RelativePath": "api/usuario/verificar-reset-senha",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Bunzl.Domain.Commands.Usuario.VerificarResetSenha.UsuarioVerificarResetSenhaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

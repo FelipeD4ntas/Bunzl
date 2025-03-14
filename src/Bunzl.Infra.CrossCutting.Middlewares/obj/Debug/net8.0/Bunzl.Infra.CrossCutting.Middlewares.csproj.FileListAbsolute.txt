@@ -1,0 +1,17 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.In.5B2468A4.Up2Date
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.Middlewares.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Middlewares.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Middlewares\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.Middlewares.dll

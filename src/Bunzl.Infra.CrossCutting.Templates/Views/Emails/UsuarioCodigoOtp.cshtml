@@ -1,0 +1,17 @@
+@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.UsuarioCodigoOtpModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center;">
+        <p style="margin-bottom: 0px; color: white;">Hello @Model.Nome, your email has been used to log in to the Bunzl Importers Portal.</p>
+        <p style="margin-top: 0px; color: white;">Please use the code below to access the portal.</p>
+        <p style="margin-top: 20px; color: white;">If you did not perform this action, contact the system administrator.</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <div style="display: inline-block; padding: 10px 20px; font-size: 24px; font-weight: bold; color: #004687; background-color: white; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);">
+            @Model.CodigoOtp
+        </div>
+    </div>
+</div>

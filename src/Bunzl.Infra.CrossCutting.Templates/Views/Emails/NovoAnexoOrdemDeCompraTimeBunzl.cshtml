@@ -1,0 +1,19 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NovoAnexoOrdemDeCompraTimeBunzlModel
+@{
+	Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+	<div style="text-align: center;">
+		<p style="margin-bottom: 0px; color: white;">Hello @Model.NomeFornecedor,</p>
+		<p style="margin-top: 0px; color: white;">User @Model.UsuarioNome from @Model.NomeEmpresa has added a new attachment to the Purchase Order.</p>
+		<p style="margin-top: 0px; color: white;">P.O Number: @Model.NumeroOrdemDeCompra</p>
+        <p style="margin-top: 0px; color: white;">New Status: @Model.Status</p>
+		<p style="margin-top: 0px; color: white;">Use the link below to view the details.</p>
+	</div>
+	<div style="text-align: center; margin-top: 20px;">
+		<a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+			Access the Portal
+		</a>
+	</div>
+</div>

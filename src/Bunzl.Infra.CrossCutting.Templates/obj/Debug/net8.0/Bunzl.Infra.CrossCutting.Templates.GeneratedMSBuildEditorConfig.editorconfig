@@ -1,0 +1,223 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows,browser
+build_property.RootNamespace = Bunzl.Infra.CrossCutting.Templates
+build_property.RootNamespace = Bunzl.Infra.CrossCutting.Templates
+build_property.ProjectDir = D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Templates\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Templates
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/FornecedorFoiHomologado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXEZvcm5lY2Vkb3JGb2lIb21vbG9nYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/FornecedorHomologar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXEZvcm5lY2Vkb3JIb21vbG9nYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NotificaUsuarioTabelaAprovada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdGlmaWNhVXN1YXJpb1RhYmVsYUFwcm92YWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NotificaUsuarioTabelaAtualizada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdGlmaWNhVXN1YXJpb1RhYmVsYUF0dWFsaXphZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NotificaUsuarioTabelaImportada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdGlmaWNhVXN1YXJpb1RhYmVsYUltcG9ydGFkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NotificaUsuarioTabelaReprovada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdGlmaWNhVXN1YXJpb1RhYmVsYVJlcHJvdmFkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NotificaUsuarioTabelaValidada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdGlmaWNhVXN1YXJpb1RhYmVsYVZhbGlkYWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovaObservacaoNegociacaoFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdmFPYnNlcnZhY2FvTmVnb2NpYWNhb0Zvcm5lY2Vkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovaObservacaoNegociacaoTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdmFPYnNlcnZhY2FvTmVnb2NpYWNhb1RpbWVCdW56bC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovaObservacaoOrdemDeCompraFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdmFPYnNlcnZhY2FvT3JkZW1EZUNvbXByYUZvcm5lY2Vkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovaObservacaoOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdmFPYnNlcnZhY2FvT3JkZW1EZUNvbXByYVRpbWVCdW56bC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoAnexoOrdemDeCompraFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9BbmV4b09yZGVtRGVDb21wcmFGb3JuZWNlZG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoAnexoOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9BbmV4b09yZGVtRGVDb21wcmFUaW1lQnVuemwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoAnexoProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9BbmV4b1Byb2R1dG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoAnexoStatusOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9BbmV4b1N0YXR1c09yZGVtRGVDb21wcmFUaW1lQnVuemwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoFornecedorCadastrado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9Gb3JuZWNlZG9yQ2FkYXN0cmFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/NovoStatusOrdemDeCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXE5vdm9TdGF0dXNPcmRlbURlQ29tcHJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ProdutoAdicionado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFByb2R1dG9BZGljaW9uYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ProdutoAlterado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFByb2R1dG9BbHRlcmFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ProdutoImportado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFByb2R1dG9JbXBvcnRhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/FornecedorFoiHomologado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcRm9ybmVjZWRvckZvaUhvbW9sb2dhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/FornecedorHomologar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcRm9ybmVjZWRvckhvbW9sb2dhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NotificaUsuarioTabelaAprovada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm90aWZpY2FVc3VhcmlvVGFiZWxhQXByb3ZhZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NotificaUsuarioTabelaAtualizada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm90aWZpY2FVc3VhcmlvVGFiZWxhQXR1YWxpemFkYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NotificaUsuarioTabelaImportada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm90aWZpY2FVc3VhcmlvVGFiZWxhSW1wb3J0YWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NotificaUsuarioTabelaReprovada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm90aWZpY2FVc3VhcmlvVGFiZWxhUmVwcm92YWRhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NotificaUsuarioTabelaValidada.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm90aWZpY2FVc3VhcmlvVGFiZWxhVmFsaWRhZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovaObservacaoNegociacaoFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92YU9ic2VydmFjYW9OZWdvY2lhY2FvRm9ybmVjZWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovaObservacaoNegociacaoTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92YU9ic2VydmFjYW9OZWdvY2lhY2FvVGltZUJ1bnpsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovaObservacaoOrdemDeCompraFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92YU9ic2VydmFjYW9PcmRlbURlQ29tcHJhRm9ybmVjZWRvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovaObservacaoOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92YU9ic2VydmFjYW9PcmRlbURlQ29tcHJhVGltZUJ1bnpsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoAnexoOrdemDeCompraFornecedor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b0FuZXhvT3JkZW1EZUNvbXByYUZvcm5lY2Vkb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoAnexoOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b0FuZXhvT3JkZW1EZUNvbXByYVRpbWVCdW56bC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoAnexoProduto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b0FuZXhvUHJvZHV0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoAnexoStatusOrdemDeCompraTimeBunzl.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b0FuZXhvU3RhdHVzT3JkZW1EZUNvbXByYVRpbWVCdW56bC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoFornecedorCadastrado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b0Zvcm5lY2Vkb3JDYWRhc3RyYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/NovoStatusOrdemDeCompra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcTm92b1N0YXR1c09yZGVtRGVDb21wcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/ProdutoAdicionado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcUHJvZHV0b0FkaWNpb25hZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/ProdutoAlterado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcUHJvZHV0b0FsdGVyYWRvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/ProdutoImportado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcUHJvZHV0b0ltcG9ydGFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/SolicitacaoNegociacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcU29saWNpdGFjYW9OZWdvY2lhY2FvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/UsuarioCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcVXN1YXJpb0NhZGFzdHJvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/UsuarioCodigoOtp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcVXN1YXJpb0NvZGlnb090cC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/UsuarioJaCadastrado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcVXN1YXJpb0phQ2FkYXN0cmFkby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/ptBR/UsuarioResetSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXHB0QlJcVXN1YXJpb1Jlc2V0U2VuaGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/SolicitacaoNegociacao.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFNvbGljaXRhY2FvTmVnb2NpYWNhby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/UsuarioCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFVzdWFyaW9DYWRhc3Ryby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/UsuarioCodigoOtp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFVzdWFyaW9Db2RpZ29PdHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/UsuarioJaCadastrado.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFVzdWFyaW9KYUNhZGFzdHJhZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Emails/UsuarioResetSenha.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1haWxzXFVzdWFyaW9SZXNldFNlbmhhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Trabalho/Bunlz/back/back-end/src/Bunzl.Infra.CrossCutting.Templates/Views/Shared/_LayoutEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRFbWFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

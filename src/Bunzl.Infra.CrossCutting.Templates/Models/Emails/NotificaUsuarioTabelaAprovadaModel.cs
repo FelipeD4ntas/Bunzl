@@ -1,0 +1,12 @@
+﻿using Bunzl.Infra.CrossCutting.Templates.Enums;
+using Bunzl.Infra.CrossCutting.Templates.Models.Base;
+
+namespace Bunzl.Infra.CrossCutting.Templates.Models.Emails;
+
+public class NotificaUsuarioTabelaAprovadaModel(string fornecedorNome, string usuarioNome, string empresaNome, string destinatario, string assunto, string titulo)
+    : TemplateEmailModelBase(TipoTemplateEmailEnum.NotificaUsuarioTabelaAprovada, destinatario, assunto, titulo)
+{
+    public string FornecedorNome { get; } = fornecedorNome;
+    public string UsuarioNome { get; } = usuarioNome;
+    public string EmpresaNome { get; } = empresaNome;
+}

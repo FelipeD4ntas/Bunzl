@@ -1,0 +1,17 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.FornecedorFoiHomologadoModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Hello @Model.NomeFornecedor,</p>
+        <p style="margin-top: 0px; color: white;">Your company registration has been successfully approved in the @Model.NomeEmpresa company system.</p>
+        <p style="margin-top: 0px; color: white;">Use the link below to access the portal.</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+            Log In
+        </a>
+    </div>
+</div>

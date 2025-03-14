@@ -1,0 +1,11 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.NotificaUsuarioTabelaAtualizadaModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Hello @Model.UsuarioNome,</p>
+        <p style="margin-top: 0px; color: white;">We would like to inform you that the supplier @Model.FornecedorNome has updated their product information on the Bunzl Importers Portal.</p>
+    </div>
+</div>

@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "kTpQ4MDvgrb38yipzTwn5eXU9/46MjjBCgHUzroXplk=",
+  "Source": "Bunzl.WebApi",
+  "BasePath": "_content/Bunzl.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Trabalho\\Bunlz\\back\\back-end\\src\\Bunzl.Infra.CrossCutting.Templates\\Bunzl.Infra.CrossCutting.Templates.csproj",
+      "Version": 2,
+      "Source": "Bunzl.Infra.CrossCutting.Templates",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

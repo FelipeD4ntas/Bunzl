@@ -1,0 +1,15 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.In.D19CD014.Up2Date
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.Security.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Security.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Security\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.Security.dll

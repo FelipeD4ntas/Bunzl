@@ -1,0 +1,15 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.NotificationPattern.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.csproj.AssemblyReference.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.In.906017D9.Up2Date
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.MediatoR.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.MediatoR.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.MediatoR\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.MediatoR.dll

@@ -1,0 +1,17 @@
+﻿@model Bunzl.Infra.CrossCutting.Templates.Models.Emails.FornecedorHomologarModel
+@{
+    Layout = "/Views/Shared/_LayoutEmail.cshtml";
+}
+
+<div>
+    <div style="text-align: center; ">
+        <p style="margin-bottom: 0px; color: white;">Hello @Model.Nome,</p>
+        <p style="margin-top: 0px; color: white;">Supplier @Model.NomeFornecedor has updated their company information.</p>
+        <p style="margin-top: 0px; color: white;">Please access the Bunzl portal to review and approve the request.</p>
+    </div>
+    <div style="text-align: center; margin-top: 20px;">
+        <a href="@Model.Link" style="background-color: #003C61; color: white; padding: 10px 20px; text-decoration: none; border: 1px solid white; border-radius: 5px; cursor: pointer; display: inline-block;">
+            Revalidate Supplier Registration
+        </a>
+    </div>
+</div>

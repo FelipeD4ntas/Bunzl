@@ -1,0 +1,11 @@
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.deps.json
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\bin\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.AssemblyInfoInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.AssemblyInfo.cs
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.csproj.CoreCompileInputs.cache
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\refint\Bunzl.Infra.CrossCutting.Helper.dll
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\Bunzl.Infra.CrossCutting.Helper.pdb
+D:\Trabalho\Bunlz\back\back-end\src\Bunzl.Infra.CrossCutting.Helper\obj\Debug\net8.0\ref\Bunzl.Infra.CrossCutting.Helper.dll

@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Remove="Commands\Usuario\ListarDevExpress\**" />
+        <EmbeddedResource Remove="Commands\Usuario\ListarDevExpress\**" />
+        <None Remove="Commands\Usuario\ListarDevExpress\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Remove="DTOs\UsuarioDto.cs" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="ClosedXML" Version="0.102.3" />
+        <PackageReference Include="DevExtreme.AspNet.Data" Version="4.0.0" />
+        <PackageReference Include="Mapster" Version="7.4.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Bunzl.Core.Domain\Bunzl.Core.Domain.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Extensions\Bunzl.Infra.CrossCutting.Extensions.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.IoC\Bunzl.Infra.CrossCutting.IoC.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.MediatoR\Bunzl.Infra.CrossCutting.MediatoR.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Resources\Bunzl.Infra.CrossCutting.Resources.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Security\Bunzl.Infra.CrossCutting.Security.csproj" />
+        <ProjectReference Include="..\Bunzl.Infra.CrossCutting.Templates\Bunzl.Infra.CrossCutting.Templates.csproj" />
+    </ItemGroup>
+
+</Project>
